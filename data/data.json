@@ -384,6 +384,11 @@
               "magazine":10,
               "ammo":"9mm",
               "slot": 2,
+              "power": 20,
+              "range":21,
+              "stability":25,
+              "rate":22,
+              "reload":0,
               "capacity":500,
               "damage":{
                 "base":66,

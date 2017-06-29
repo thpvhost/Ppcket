@@ -119,6 +119,26 @@
           "compare_url":"submachine-guns.html",
           "items":[
             {
+              "name":"Groza",
+              "image_url":"icon_weapon_GROZA.png",
+              "magazine":30,
+              "ammo":"7.62mm",
+              "slot": 3,
+              "reload":0,
+              "capacity":500,
+              "damage":{
+                "base":"17",
+                "chest0":"33",
+                "chest1":"23",
+                "chest2":"20",
+                "chest3":"15",
+                "head0":"83",
+                "head1":"58",
+                "head2":"50",
+                "head3":"37"
+              }
+            },
+            {
               "name":"UMP9",
               "image_url":"icon_weapon_UMP.png",
               "magazine":30,
@@ -481,6 +501,26 @@
           "image_url":"icon_weapon_M9.png",
           "compare_url": "pistol.html",
           "items":[
+            {
+              "name":"P18C",
+              "image_url":"icon_weapon_GLOCK18C.png",
+              "magazine":17,
+              "ammo":"9mm",
+              "slot": 3,
+              "reload":0,
+              "capacity":100,
+              "damage":{
+                "base":15,
+                "chest0":29,
+                "chest1":20,
+                "chest2":17,
+                "chest3":13,
+                "head0":73,
+                "head1":51,
+                "head2":44,
+                "head3":33
+              }
+            },
             {
               "name":"P92",
               "image_url":"icon_weapon_M9.png",

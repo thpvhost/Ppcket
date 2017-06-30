@@ -20,7 +20,11 @@
               "image_url":"icon_weapon_GROZA.png",
               "magazine":30,
               "ammo":"7.62mm",
+              "power":42,
               "slot": 3,
+              "range":60,
+              "stability":34,
+              "rate":70,
               "reload":0,
               "capacity":500,
               "damage":{
@@ -506,7 +510,11 @@
               "image_url":"icon_weapon_GLOCK18C.png",
               "magazine":17,
               "ammo":"9mm",
+              "power": 19,
               "slot": 3,
+              "range":15,
+              "stability":15,
+              "rate":60,
               "reload":0,
               "capacity":100,
               "damage":{
@@ -7904,9 +7912,9 @@
               "text":"BATTLEGROUNDS takes place on the main island (Erangel), an abandoned Russian island where a military occupation was controlling it. The military occupation tested chemical/biological experiments on the islands population, after a resistant attack on a biological facility, the island had to be abandoned."
             },
             {
-              "name":"Airdrop",
+              "name":"Care package",
               "image_url":"articles/icon_articles_airdrop.png",
-              "text":"Supplies (air droppings) are items that are dropped randomly during the game, and some are available only from there.\n• Tommy Gun\n• M249\n• AWM\n• M24\n• SKS\n• Kar 98\n• VSS Vintorez\n• 8x scope\n• Guillaume\n• Helmet Lv.3\n• Vest Lv.3\n• Adrenaline syringe"
+              "text":"Supplies (air droppings) are items that are dropped randomly during the game, and some are available only from there.\n• Tommy Gun\n• M249\n• AWM\n• M24\n• SKS\n• Kar 98\n• VSS Vintorez\n• 8x scope\n• Guillaume\n• Helmet Lv.3\n• Vest Lv.3\n• Adrenaline syringe\n• The Groza"
             },
             {
               "name":"Moving speed",

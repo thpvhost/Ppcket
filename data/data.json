@@ -7253,55 +7253,70 @@
           "type_name":"Muzzle",
           "items":[
             {
-              "name":"Choke for S1897",
+              "name":"Choke for S1897, S686",
               "image_url":"icon_attach_Muzzle_Choke.png",
               "capacity":500,
-              "description":"The choke makes the shotgun spread less, making longer shots easier."
+              "description":"Reduces the spread of shotgun pellets"
             },
             {
               "name":"Compensator for Automatic Rifle",
+              "image_url":"icon_attach_Muzzle_Compensator_Large.png",
+              "capacity":500,
+              "description":"Slightly reduces horizontal recoil and reduces vertical recoil "
+            },
+            {
+              "name":"Compensator for SMG",
               "image_url":"icon_attach_Muzzle_Compensator_Medium.png",
-              "capacity":500
+              "capacity":500,
+              "description":"Slightly reduces horizontal recoil and reduces vertical recoil"
             },
             {
               "name":"Compensator for Sniper Rifle",
               "image_url":"icon_attach_Muzzle_Compensator_SniperRifle.png",
-              "capacity":500
+              "capacity":500,
+              "description": "Slightly reduces horizontal recoil and reduces vertical recoil"
             },
             {
               "name":"Flash Hider for Automatic Rifle",
               "image_url":"icon_attach_Muzzle_FlashHider_Large.png",
-              "capacity":500
+              "capacity":500,
+              "description": "Eliminates muzzle flash and slightly reduces horizontal and vertical recoil"
             },
             {
               "name":"Flash Hider for SMG",
               "image_url":"icon_attach_Muzzle_FlashHider_Medium.png",
-              "capacity":500
+              "capacity":500,
+              "description": "Eliminates muzzle flash and slightly reduces horizontal and vertical recoil"
             },
             {
               "name":"Flash Hider for Sniper Rifle",
               "image_url":"icon_attach_Muzzle_FlashHider_SniperRifle.png",
-              "capacity":500
+              "capacity":500,
+              "description": "Eliminates muzzle flash and slightly reduces horizontal and vertical recoil"
             },
             {
               "name":"Suppressor for Automatic Rifle",
               "image_url":"icon_attach_Muzzle_Suppressor_Large.png",
-              "capacity":500
+              "capacity":500,
+              "description": "Reduces a weapon’s sound to increase stealth"
             },
             {
               "name":"Suppressor for Sniper Rifle",
               "image_url":"icon_attach_Muzzle_Suppressor_SniperRifle.png",
-              "capacity":500
+              "capacity":500,
+              "description": "Reduces a weapon’s sound to increase stealth"
             },
             {
               "name":"Suppressor for Pistol",
               "image_url":"icon_attach_Muzzle_Suppressor_Small.png",
-              "capacity":500
+              "capacity":500,
+              "description": "Reduces a weapon’s sound to increase stealth"
             },
             {
               "name":"Suppressor for SMG",
               "image_url":"icon_attach_Muzzle_Suppressor_Medium.png",
-              "capacity":500
+              "capacity":500,
+              "description": "Reduces a weapon’s sound to increase stealth"
             }
           ]
         },
@@ -7311,17 +7326,20 @@
             {
               "name":"Angled Foregrip",
               "image_url":"icon_attach_Lower_AngledForeGrip.png",
-              "capacity":500
+              "capacity":500,
+              "description": "Slightly reduces horizontal and vertical recoil and makes switching to ADS faster"
             },
             {
               "name":"Verticle Foregrip",
               "image_url":"icon_attach_Lower_Foregrip.png",
-              "capacity":500
+              "capacity":500,
+              "description": "Reduces horizontal recoil and makes switching to ADS faster"
             },
             {
               "name":"Foregrip for Crossbow",
               "image_url":"icon_attach_Lower_Foregrip_Croosbow.png",
-              "capacity":500
+              "capacity":500,
+              "description": "Attachable Weapon : Crossbow"
             }
 
           ]
@@ -7332,27 +7350,32 @@
             {
               "name":"Cheek Pad for VSS",
               "image_url":"icon_attach_Lower_Sniper_CheekPad_Vss.png",
-              "capacity":500
+              "capacity":500,
+              "description": "Reduces recoil kick and sway"
             },
             {
               "name":"Cheek Pad for Sniper Rifle",
               "image_url":"icon_attach_Stock_SniperRifle_CheekPad.png",
-              "capacity":500
+              "capacity":500,
+              "description": "Reduces recoil kick and sway"
             },
             {
               "name":"Composite Stock for Assault Rifle",
               "image_url":"icon_attach_Stock_AR_Composite.png",
-              "capacity":500
+              "capacity":500,
+              "description": "Makes recoil recovery faster and reduces weapon sway "
             },
             {
               "name":"Stock for Micro Uzi",
               "image_url":"icon_attach_Stock_UZI.png",
-              "capacity":500
+              "capacity":500,
+              "description": "Makes recoil recovery faster and reduces weapon sway "
             },
             {
               "name":"Tactical Stock for M416",
               "image_url":"icon_attach_Stock_SniperRifle_CheekPad.png",
-              "capacity":500
+              "capacity":500,
+              "description": "Makes recoil recovery faster and reduces weapon sway "
             }
           ]
         },
@@ -7362,87 +7385,104 @@
             {
               "name":"Extended Mag Drum",
               "image_url":"icon_attach_Magazine_Extended_DrumMagazine.png",
-              "capacity":500
+              "capacity":500,
+              "description": "Increases magazine capacity"
             },
             {
               "name":"Extended Mag for Automatic Rifle",
               "image_url":"icon_attach_Magazine_Extended_Large.png",
-              "capacity":500
+              "capacity":500,
+              "description": "Increases magazine capacity"
             },
             {
               "name":"Extended Mag for KRISS Vector",
               "image_url":"icon_attach_Medium_Extended_Magazine_Vector.png",
-              "capacity":500
+              "capacity":500,
+              "description": "Increases magazine capacity"
             },
             {
               "name":"Extended Mag for Pistol",
               "image_url":"icon_attach_Magazine_Extended_Small.png",
-              "capacity":500
+              "capacity":500,
+              "description": "Increases magazine capacity"
             },
             {
               "name":"Extended Mag for SMG",
               "image_url":"icon_attach_Magazine_Extended_Medium.png",
-              "capacity":500
+              "capacity":500,
+              "description": "Increases magazine capacity"
             },
             {
               "name":"Extended Mag for Sniper Rifle",
               "image_url":"icon_attach_Magazine_Extended_SniperRifle.png",
-              "capacity":500
+              "capacity":500,
+              "description": "Increases magazine capacity"
             },
             {
               "name":"QuickDraw Mag for Automatic Rifle",
               "image_url":"icon_attach_Magazine_QuickDraw_Large.png",
-              "capacity":500
+              "capacity":500,
+              "description": "Increases reload speed"
             },
             {
               "name":"QuickDraw Mag for Crossbow",
               "image_url":"icon_attach_Magazine_QuickDraw_Large_Crossbow.png",
-              "capacity":500
+              "capacity":500,
+              "description": "Increases reload speed"
             },
             {
               "name":"QuickDraw Mag for KRISS Vector",
               "image_url":"icon_attach_Magazine_SR_Extended_Mag_Vss.png",
-              "capacity":500
+              "capacity":500,
+              "description": "Increases reload speed"
             },
             {
               "name":"QuickDraw Mag for Pistol",
               "image_url":"icon_attach_Magazine_QuickDraw_Small.png",
-              "capacity":500
+              "capacity":500,
+              "description": "Increases reload speed"
             },
             {
               "name":"QuickDraw Mag for SMG",
               "image_url":"icon_attach_Magazine_QuickDraw_Medium.png",
-              "capacity":500
+              "capacity":500,
+              "description": "Increases reload speed"
             },
             {
               "name":"QuickDraw Mag for Sniper Rifle",
               "image_url":"icon_attach_Magazine_QuickDraw_SniperRifle.png",
-              "capacity":500
+              "capacity":500,
+              "description": "Increases reload speed"
             },
             {
               "name":"Extended QuickDraw Mag for Pistol",
               "image_url":"icon_attach_Magazine_ExtendedQuickDraw_Small.png",
-              "capacity":500
+              "capacity":500,
+              "description": "Increases reload speed and magazine capacity "
             },
             {
               "name":"Extended QuickDraw Mag for SMG",
               "image_url":"icon_attach_Magazine_Extended_Medium.png",
-              "capacity":500
+              "capacity":500,
+              "description": "Increases reload speed and magazine capacity "
             },
             {
               "name":"Extended QuickDraw Mag for Automatic Rifle",
               "image_url":"icon_attach_Magazine_ExtendedQuickDraw_Large.png",
-              "capacity":500
+              "capacity":500,
+              "description": "Increases reload speed and magazine capacity "
             },
             {
               "name":"Extended QuickDraw Mag for Sniper Rifle",
               "image_url":"icon_attach_Magazine_ExtendedQuickDraw_SniperRifle.png",
-              "capacity":500
+              "capacity":500,
+              "description": "Increases reload speed and magazine capacity "
             },
             {
               "name":"Extended QuickDraw Mag for VSS",
               "image_url":"icon_attach_Magazine_SR_Extended_Mag_Vss.png",
-              "capacity":500
+              "capacity":500,
+              "description": "Increases reload speed and magazine capacity "
             }
           ]
         },
@@ -7452,12 +7492,14 @@
             {
               "name":"Bullet Loops for Kar98k",
               "image_url":"icon_attach_Stock_SniperRifle_BulletLoops.png",
-              "capacity":500
+              "capacity":500,
+              "description": "Increases reload speed"
             },
             {
               "name":"Bullet Loops for S1897, S686",
               "image_url":"icon_attach_Stock_Shotgun_BulletLoops.png",
-              "capacity":500
+              "capacity":500,
+              "description": "Increases reload speed"
             }
           ]
         },
@@ -7467,32 +7509,38 @@
             {
               "name":"Red Dot Sight",
               "image_url":"icon_attach_Upper_DotSight_Crossbow.png",
-              "capacity":500
+              "capacity":500,
+              "description": "Attachable Weapons: UMP9, Vector, P9, P1911, P18C, AKM, M16A4, M416, SCAR-L, Groza, SKS, S12K, M249, Kar98k, M24, AWM, Crossbow"
             },
             {
               "name":"Holographic Sight",
               "image_url":"icon_attach_Upper_Holosight.png",
-              "capacity":500
+              "capacity":500,
+              "description": "Attachable Weapons: UMP9, Vector, AKM, M16A4, M416, SCAR-L, Groza, S12K, M249, Kar98k, M24, SKS, AWM, Crossbow"
             },
             {
               "name":"2x Scope",
               "image_url":"icon_attach_Upper_Aimpoint2X_01.png",
-              "capacity":500
+              "capacity":500,
+              "description": "Attachable Weapons: UMP9, Vector, AKM, M16A4, M416, SCAR-L, Groza, SKS, S12K, M249, Kar98k, M24, AWM"
             },
             {
               "name":"4x Scope",
               "image_url":"icon_attach_Upper_ACOG_01.png",
-              "capacity":500
+              "capacity":500,
+              "description": "Attachable Weapons: UMP9, Vector, AKM, M16A4, M416, SCAR-L, Groza, S12K, M249, Kar98k, M24, SKS, AWM"
             },
             {
               "name":"8x Scope",
               "image_url":"icon_attach_Upper_CQBSS.png",
-              "capacity":500
+              "capacity":500,
+              "description": "Attachable Weapons: AKM, M16A4, M416, SCAR-L, SKS, S12K, M249, Kar98k, M24, SKS, AWM"
             },
             {
               "name":"15x Scope",
               "image_url":"icon_attach_Upper_PM2_01.png",
-              "capacity":500
+              "capacity":500,
+              "description": "Attachable Weapons: AKM, M16A4, M416, SCAR-L, S12K, M249, Kar98k, M24, SKS, AWM"
             }
           ]
         }
@@ -7736,7 +7784,7 @@
             {
               "name":"Med Kit",
               "image_url":"icon_Heal_MedKit.png",
-              "activate_time":0,
+              "activate_time":10,
               "heal":100,
               "max_heal":100,
               "boost":0,
@@ -7746,7 +7794,7 @@
             {
               "name":"Bandages",
               "image_url":"icon_Heal_Bandage.png",
-              "activate_time":0,
+              "activate_time":4,
               "heal":10,
               "max_heal":75,
               "boost":0,
@@ -7756,7 +7804,7 @@
             {
               "name":"First Aid Kit",
               "image_url":"icon_Heal_FirstAid.png",
-              "activate_time":0,
+              "activate_time":7.5,
               "heal":75,
               "max_heal":75,
               "boost":0,
@@ -7766,7 +7814,7 @@
             {
               "name":"Painkillers",
               "image_url":"icon_Boost_PainKiller.png",
-              "activate_time":0,
+              "activate_time":7.5,
               "boost":60,
               "heal":0,
               "max_heal":100,
@@ -7776,7 +7824,7 @@
             {
               "name":"Energy Drink",
               "image_url":"icon_Boost_EnergyDrink.png",
-              "activate_time":0,
+              "activate_time":4,
               "boost":40,
               "heal":0,
               "max_heal":100,
@@ -7786,7 +7834,7 @@
             {
               "name":"Adrenaline Syringe",
               "image_url":"icon_Boost_AdrenalineSyringe.png",
-              "activate_time":0,
+              "activate_time":10,
               "max_stack":0,
               "capacity":20
             }
@@ -7798,7 +7846,7 @@
             {
               "name":"Gas Can",
               "image_url":"icon_jerrycan.png",
-              "activate_time":0,
+              "activate_time":3,
               "capacity":20
             }
           ]

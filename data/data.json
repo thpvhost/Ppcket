@@ -8325,14 +8325,15 @@
     }
   },
   "home": {
-    "Leaderboard": "New",
+    "News": "New",
+    "Leaderboard": "",
     "Statistics": "",
     "Weapons": "Update",
     "Maps": "",
     "Equipments": "",
-    "Items": "",
+    "Items": "Update",
     "Vehicles": "",
-    "Attachments": "",
+    "Attachments": "Update",
     "Ammunition": "",
     "Mechanics": ""
   }

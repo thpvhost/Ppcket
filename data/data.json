@@ -325,7 +325,7 @@
             },
             {
               "name":"S12K",
-              "image_url":"icon_weapon_Winchester.png",
+              "image_url":"icon_weapon_Saiga12.png",
               "magazine":5,
               "ammo":"12Gauge",
               "power": 32,
@@ -349,7 +349,7 @@
             },
             {
               "name":"S1897",
-              "image_url":"icon_weapon_Saiga12.png",
+              "image_url":"icon_weapon_Winchester.png",
               "magazine":2,
               "ammo":"12Gauge",
               "power": 100,

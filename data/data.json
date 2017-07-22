@@ -1,7 +1,7 @@
 {
   "config":{
     "image_base_url": "https://thpvhost.github.io/ppcket/images-hd/",
-    "map_base_url":"https://raw.githubusercontent.com/thupv/pubgPocket/master/map/{z}_{x}_{y}.png",
+    "map_base_url":"https://thpvhost.github.io/ppcket/map/{z}_{x}_{y}.png",
     "weapon_compare_url": "https://thpvhost.github.io/ppcket/weapon-compare/"
   },
   "categories":[

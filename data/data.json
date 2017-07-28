@@ -8017,6 +8017,11 @@
               "name": "South American",
               "image_url":"map-icon/sa-icon.png",
               "code": "sa"
+            },
+            {
+              "name": "Southeast Asia",
+              "image_url":"map-icon/sea-icon.png",
+              "code": "sa"
             }
           ]
         }

@@ -7585,7 +7585,7 @@
               "name":"Utility Belt",
               "image_url":"icon_equipment_Belt_D_01.png",
               "bulk":50,
-              "capacity":20
+              "capacity":0
             }
           ]
         },
@@ -7596,19 +7596,19 @@
               "name":"Backpack (1)",
               "image_url":"icon_equipment_Back_E_01.png",
               "bulk":150,
-              "capacity":0
+              "capacity":400
             },
             {
               "name":"Backpack (2)",
               "image_url":"icon_equipment_Back_F_01.png",
               "bulk":200,
-              "capacity":0
+              "capacity":400
             },
             {
               "name":"Backpack (3)",
               "image_url":"icon_equipment_Back_C_01.png",
               "bulk":250,
-              "capacity":0
+              "capacity":400
             }
           ]
         },
@@ -7620,21 +7620,24 @@
               "image_url":"icon_equipment_Armor_E_01_Lv1.png",
               "bulk":50,
               "durability":150,
-              "capacity":0
+              "damageReduction": "30%",
+              "capacity":120
             },
             {
               "name":"Military Vest (2)",
               "image_url":"icon_equipment_Armor_D_01_Lv2.png",
               "bulk":50,
               "durability":200,
-              "capacity":0
+              "damageReduction": "40%",
+              "capacity":150
             },
             {
               "name":"Military Vest (3)",
               "image_url":"icon_equipment_Armor_C_01_Lv3.png",
               "bulk":50,
               "durability":250,
-              "capacity":0
+              "damageReduction": "55%",
+              "capacity":180
             }
           ]
         },
@@ -7645,19 +7648,22 @@
               "name":"Motorcycle Helmet (1)",
               "image_url":"icon_equipment_Head_E_01.png",
               "durability":80,
-              "capacity":0
+              "damageReduction": "30%",
+              "capacity":40
             },
             {
               "name":"Military Helmet (2)",
               "image_url":"icon_equipment_Head_F_01.png",
               "durability":150,
-              "capacity":0
+              "damageReduction": "40%",
+              "capacity":50
             },
             {
               "name":"Military Helmet (3)",
               "image_url":"icon_equipment_Head_G_01.png",
-              "durability":200,
-              "capacity":0
+              "durability":230,
+              "damageReduction": "55%",
+              "capacity":60
             }
           ]
         },
@@ -7808,7 +7814,7 @@
             {
               "name":"Med Kit",
               "image_url":"icon_Heal_MedKit.png",
-              "activate_time":10,
+              "activate_time":8,
               "heal":100,
               "max_heal":100,
               "boost":0,
@@ -7828,7 +7834,7 @@
             {
               "name":"First Aid Kit",
               "image_url":"icon_Heal_FirstAid.png",
-              "activate_time":7.5,
+              "activate_time":6,
               "heal":75,
               "max_heal":75,
               "boost":0,
@@ -7838,7 +7844,7 @@
             {
               "name":"Painkillers",
               "image_url":"icon_Boost_PainKiller.png",
-              "activate_time":7.5,
+              "activate_time":6,
               "boost":60,
               "heal":0,
               "max_heal":100,
@@ -7858,7 +7864,7 @@
             {
               "name":"Adrenaline Syringe",
               "image_url":"icon_Boost_AdrenalineSyringe.png",
-              "activate_time":10,
+              "activate_time":8,
               "max_stack":0,
               "capacity":20
             }

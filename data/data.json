@@ -379,6 +379,30 @@
           "compare_url": "sniper-rifles.html",
           "items":[
             {
+              "name":"Mk14 EBR",
+              "image_url":"icon_weapon_MI_Mk14EBR.png",
+              "magazine":10,
+              "ammo":"7.62mm",
+              "power": 53,
+              "slot": 4,
+              "range":64,
+              "stability":48,
+              "rate":10,
+              "reload":0,
+              "capacity":0,
+              "damage":{
+                "base":36,
+                "chest0":72,
+                "chest1":50,
+                "chest2":43,
+                "chest3":32,
+                "head0":180,
+                "head1":126,
+                "head2":108,
+                "head3":81
+              }
+            },
+            {
               "name":"SKS",
               "image_url":"icon_weapon_SKS.png",
               "magazine":5,
